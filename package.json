@@ -1,7 +1,7 @@
 {
-"name": "PRABATH-MD",
+"name": "MAFIA-MD",
 "version": "2.1.1",
-"description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "MAFIYA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
 "start": "pm2 start start.js --deep-monitoring --attach --name prabath-md",
@@ -9,7 +9,7 @@
 "restart": "pm2 restart prabath-md"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git",
+"@whiskeysockets/baileys": "git+https://github.com/BitXteam/MAFIYA-6.0.0",
 "@adiwajshing/keyed-db": "^0.2.4",
 "wa_set_pkg": "1.0.1",
 "gemini-ai" : "latest",
